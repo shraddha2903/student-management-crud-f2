@@ -1,0 +1,38 @@
+form>input{
+    padding: 8px;
+    margin: 8px;
+}
+form>button{
+    padding: 5px;
+    width: 40%;
+    /* margin: 8px; */
+    /* background-color: white;
+    color: black; */
+}
+.searchBy{
+    width: 90%;
+    padding: 5px;
+    margin-top: 20px;
+   
+}
+*{
+   
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+table,th{
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse:collapse;
+    
+    margin-top: 30px;   
+}
+tr>td{
+    padding: 10px;
+    border-right: 1px solid black;
+}
+.btn{
+    float:right;
+}
+
